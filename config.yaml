@@ -1,4 +1,4 @@
-pushplus_token: ## pushplus推送token
-refresh_token:  ## 阿里云网盘刷新token
+pushplus_token: 2c3ce6900d614310aa55c623623f7980
+refresh_token:  87d4fde914bb430885a2a7a5826fe24e
 bilibili_cookie: ## B站cookie
 jd_cookie: ##京东cookie
